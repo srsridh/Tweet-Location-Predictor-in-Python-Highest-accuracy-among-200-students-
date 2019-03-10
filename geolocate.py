@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#Accuracy achieved - 67.4%
+#Accuracy achieved - 72.5%
 
 #Decision decisions
 # re package in python was used to remove special characters from the tweet like "-","_",'\r','\n','.','!','*', #
